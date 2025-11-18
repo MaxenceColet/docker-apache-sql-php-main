@@ -10,6 +10,9 @@ services:
     container_name: "${APP_NAME}-php"
     labels:
       local.project: "${APP_NAME}"
+    build:
+      context: .
+      dockerfile: php/Dockerfile
     restart: always
     ports:
       - "${API_LISTEN_PORT}:80"
