@@ -1,0 +1,6 @@
+172.22.0.1 - - [17/Nov/2025:15:03:11 +0000] "GET / HTTP/1.1" 200 27827 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0"
+172.22.0.1 - - [17/Nov/2025:15:03:12 +0000] "GET /favicon.ico HTTP/1.1" 404 487 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0"
+172.22.0.1 - - [17/Nov/2025:15:04:02 +0000] "GET / HTTP/1.1" 200 241 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0"
+172.22.0.1 - - [17/Nov/2025:15:04:17 +0000] "GET / HTTP/1.1" 200 250 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0"
+172.22.0.1 - - [17/Nov/2025:15:38:58 +0000] "GET / HTTP/1.1" 200 250 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0"
+172.22.0.1 - - [17/Nov/2025:15:38:59 +0000] "GET /favicon.ico HTTP/1.1" 404 510 "http://marsouin.milk318.messwithdns.com./" "Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0"

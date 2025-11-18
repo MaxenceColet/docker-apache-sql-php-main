@@ -1,0 +1,7 @@
+marsouin.milk318.messwithdns.com:80 172.22.0.1 - - [17/Nov/2025:15:42:42 +0000] "GET / HTTP/1.1" 200 307 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0"
+marsouin.milk318.messwithdns.com:80 172.22.0.1 - - [17/Nov/2025:15:42:43 +0000] "GET / HTTP/1.1" 304 247 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0"
+marsouin.milk318.messwithdns.com:80 172.22.0.1 - - [17/Nov/2025:15:42:43 +0000] "GET / HTTP/1.1" 304 247 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0"
+marsouin.milk318.messwithdns.com:80 172.22.0.1 - - [17/Nov/2025:15:42:44 +0000] "GET / HTTP/1.1" 304 247 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0"
+marsouin.milk318.messwithdns.com:80 172.22.0.1 - - [17/Nov/2025:15:42:44 +0000] "GET / HTTP/1.1" 304 247 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0"
+test.milk318.messwithdns.com:80 172.22.0.1 - - [18/Nov/2025:10:42:24 +0000] "GET / HTTP/1.1" 200 302 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0"
+test.milk318.messwithdns.com:80 172.22.0.1 - - [18/Nov/2025:10:42:24 +0000] "GET /favicon.ico HTTP/1.1" 404 506 "http://test.milk318.messwithdns.com./" "Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0"
